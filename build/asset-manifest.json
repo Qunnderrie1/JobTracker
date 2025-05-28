@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/JobTrackerApp/login/static/css/main.5952df1f.css",
+    "main.js": "/JobTrackerApp/login/static/js/main.d6018f60.js",
+    "index.html": "/JobTrackerApp/login/index.html",
+    "main.5952df1f.css.map": "/JobTrackerApp/login/static/css/main.5952df1f.css.map",
+    "main.d6018f60.js.map": "/JobTrackerApp/login/static/js/main.d6018f60.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5952df1f.css",
+    "static/js/main.d6018f60.js"
+  ]
+}

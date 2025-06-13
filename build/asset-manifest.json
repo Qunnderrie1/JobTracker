@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/JobTrackerApp/login/static/css/main.5952df1f.css",
-    "main.js": "/JobTrackerApp/login/static/js/main.04812eef.js",
-    "index.html": "/JobTrackerApp/login/index.html",
-    "main.5952df1f.css.map": "/JobTrackerApp/login/static/css/main.5952df1f.css.map",
-    "main.04812eef.js.map": "/JobTrackerApp/login/static/js/main.04812eef.js.map"
+    "main.css": "/JobTracker/static/css/main.5952df1f.css",
+    "main.js": "/JobTracker/static/js/main.de607280.js",
+    "index.html": "/JobTracker/index.html",
+    "main.5952df1f.css.map": "/JobTracker/static/css/main.5952df1f.css.map",
+    "main.de607280.js.map": "/JobTracker/static/js/main.de607280.js.map"
   },
   "entrypoints": [
     "static/css/main.5952df1f.css",
-    "static/js/main.04812eef.js"
+    "static/js/main.de607280.js"
   ]
 }

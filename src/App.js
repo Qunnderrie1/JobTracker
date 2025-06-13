@@ -11,14 +11,14 @@ function App() {
     <div className="App">
       <BrowserRouter>
         <Routes>
-          <Route path="/JobTrackerApp/signup" element={<SignUp />} />
-          <Route path="/JobTrackerApp/" element={<Login />} />
-          <Route path='/JobTrackerApp/dashboard' element={<Protect />}  >
-            <Route path="/JobTrackerApp/dashboard" element={<Dashboard />} />
+          <Route path="/signup" element={<SignUp />} />
+          <Route path="/" element={<Login />} />
+          <Route path='/dashboard' element={<Protect />}  >
+            <Route path="/dashboard" element={<Dashboard />} />
           </Route>
-          <Route path="/JobTrackerApp/dashboard/job/:id" element={<Dashboard />} />
-          <Route path="/JobTrackerApp/dashboard/job" element={<Dashboard />} />
-          <Route path="/JobTrackerApp/job" element={<Dashboard />} />
+          <Route path="/dashboard/job/:id" element={<Dashboard />} />
+          <Route path="/dashboard/job" element={<Dashboard />} />
+          <Route path="/job" element={<Dashboard />} />
           <Route path="*" element={<NotFound />} />
         </Routes>
       </BrowserRouter>

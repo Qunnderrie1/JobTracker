@@ -12,7 +12,7 @@ function App() {
       <BrowserRouter>
         <Routes>
           <Route path="/JobTrackerApp/signup" element={<SignUp />} />
-          <Route path="/JobTrackerApp/login" element={<Login />} />
+          <Route path="/JobTrackerApp/" element={<Login />} />
           <Route path='/JobTrackerApp/dashboard' element={<Protect />}  >
             <Route path="/JobTrackerApp/dashboard" element={<Dashboard />} />
           </Route>
